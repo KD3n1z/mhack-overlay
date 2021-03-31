@@ -21,4 +21,4 @@ It's very simple: programm replaces %paramName to parameter value.
 • <code>%fixedlcps</code> - left mouse button clicks per second, and space at the end if value is smaller than 10<br>
 • <code>%fixedrcps</code> - right mouse button clicks per second, and space at the end if value is smaller than 10<br>
 • <code>%space</code> - " "<br>
-• <code>%timer</code> - timer in format hh:mm:ss:mls (bind - num lock)<br>
+• <code>%timer</code> - timer in format hh:mm:ss:mls (bind - <code>num lock</code>)<br>
