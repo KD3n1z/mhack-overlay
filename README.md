@@ -26,6 +26,6 @@ It's very simple: program replaces %paramName to parameter value.
 ### All about extensions.
 • <code>Extensions</code> are console programs that extend the functionality of the overlay.<br>
 • M Hack Overlay runs them in the background and reads their output.<br>
-• First of all, the extension prints out its title. (Example: "title:best extension").<br>
-• Then, it starts constantly displaying the name of the parameters and their values. (Example: "smile:=D")<br>
+• First of all, the extension prints out its title. (Example: <code>title:best extension</code>).<br>
+• Then, it starts constantly displaying the name of the parameters and their values. (Example: <code>weather:rainy</code>)<br>
 • Extensions stored in %appdata%/Shu/Overlay/exts/
