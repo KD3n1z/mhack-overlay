@@ -7,7 +7,7 @@
 Simple and fully customizable overlay.
 <br><br>
 ### How does formatting work?
-It's very simple: programm replaces %paramName to parameter value.
+It's very simple: program replaces %paramName to parameter value.
 <br><br>
 ### Built-in parameters.
 • <code>%freerammb</code> - free ram in mb<br>
@@ -22,3 +22,10 @@ It's very simple: programm replaces %paramName to parameter value.
 • <code>%fixedrcps</code> - right mouse button clicks per second, and space at the end if value is smaller than 10<br>
 • <code>%space</code> - " "<br>
 • <code>%timer</code> - timer in format hh:mm:ss:mls (bind - <code>num lock</code>)<br>
+<br><br>
+### All about extensions.
+<code>Extensions</code> are console programs that extend the functionality of the overlay.<br>.
+M Hack Overlay starts runs them in the background and reads their output.<br>
+First of all, the extension prints out its title. (Example: "title:best extension").<br>
+Then, it starts constantly displaying the name of the parameters and their values. (Example: "smile:=D")<br>
+Extensions 
