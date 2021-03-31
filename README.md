@@ -4,6 +4,17 @@
 ![license](https://img.shields.io/github/license/KD3n1z/mhack-overlay)
 
 # m hack overlay
-Simple and fully customizable overlay
+Simple and fully customizable overlay.
 <br><br>
-### How to create extension?
+### How does formatting work?
+It's very simple: programm replaces %paramName to parameter value.
+<br><br>
+### Built-in parameters.
+• <code>%freerammb</code> - free ram in mb<br>
+• <code>%freeramkb</code> - free ram in kb<br>
+• <code>%line</code> - new line<br>
+• <code>%percent</code> - "%"<br>
+• <code>%rmb</code> - is right mouse button down?<br>
+• <code>%rmb</code> - is left mouse button down?<br>
+• <code>%rcps</code> - right mouse button clicks per second<br>
+• <code>%lcps</code> - left mouse button clicks per second<br>
