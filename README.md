@@ -24,8 +24,8 @@ It's very simple: program replaces %paramName to parameter value.
 • <code>%timer</code> - timer in format hh:mm:ss:mls (bind - <code>num lock</code>)<br>
 <br><br>
 ### All about extensions.
-<code>Extensions</code> are console programs that extend the functionality of the overlay.<br>.
+<code>Extensions</code> are console programs that extend the functionality of the overlay.<br>
 M Hack Overlay starts runs them in the background and reads their output.<br>
 First of all, the extension prints out its title. (Example: "title:best extension").<br>
 Then, it starts constantly displaying the name of the parameters and their values. (Example: "smile:=D")<br>
-Extensions 
+Extensions stored in %appdata%/Shu/Overlay/exts/
