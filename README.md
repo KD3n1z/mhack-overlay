@@ -11,7 +11,7 @@ It's very simple: program replaces %paramName to parameter value.
 ### Built-in parameters.
 • <code>%freerammb</code> - free ram in mb<br>
 • <code>%freeramkb</code> - free ram in kb<br>
-• <code>%line</code> - new line<br>Cancel Changes
+• <code>%line</code> - new line<br>
 • <code>%percent</code> - "%"<br>
 • <code>%rmb</code> - is right mouse button down?<br>
 • <code>%rmb</code> - is left mouse button down?<br>
